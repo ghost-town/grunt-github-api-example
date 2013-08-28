@@ -1,0 +1,27 @@
+{
+  "name": "grunt-github-api-example",
+  "description": "Grunt plugin used to query the Github API and save the returned JSON files locally.",
+  "version": "0.2.0",
+  "homepage": "https://github.com/JeffHerb/grunt-github-api-example",
+  "author": {
+    "name": "Jeffrey Herb",
+    "email": "herb.jeff@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:JeffHerb/grunt-github-api-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JeffHerb/grunt-github-api-example/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/JeffHerb/grunt-github-api/blob/master/LICENSE-MIT"
+    }
+  ],
+  "notes": "This is an example repository for the [grunt-github-api](https://github.com/JeffHerb/grunt-github-api-example/) project. For additional information on this project see the [plugin page](https://github.com/JeffHerb/grunt-github-api-example/)."
+  "keywords": [
+    "gruntplugin, github, pages, git, github pages"
+  ]
+}
